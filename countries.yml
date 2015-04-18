@@ -1,0 +1,2750 @@
+AF:
+	name: Afghanistan
+	uniCode: AF
+	currency: AFN
+	capital: Kabul
+	region: Asia
+	subregion: Southern Asia
+	lat: 33
+	lng: 65
+	enabled: 1
+	area: 652230
+AX:
+	name: Åland Islands
+	uniCode: AX
+	currency: EUR
+	capital: Mariehamn
+	region: Europe
+	subregion: Northern Europe
+	lat: 60.116667
+	lng: 19.9
+	enabled: 1
+	area: 1580
+AL:
+	name: Albania
+	uniCode: AL
+	currency: ALL
+	capital: Tirana
+	region: Europe
+	subregion: Southern Europe
+	lat: 41
+	lng: 20
+	enabled: 1
+	area: 28748
+DZ:
+	name: Algeria
+	uniCode: DZ
+	currency: DZD
+	capital: Algiers
+	region: Africa
+	subregion: Northern Africa
+	lat: 28
+	lng: 3
+	enabled: 1
+	area: 2381741
+AS:
+	name: American Samoa
+	uniCode: AS
+	currency: USD
+	capital: Pago Pago
+	region: Oceania
+	subregion: Polynesia
+	lat: -14.33333333
+	lng: -170
+	enabled: 1
+	area: 199
+AD:
+	name: Andorra
+	uniCode: AD
+	currency: EUR
+	capital: Andorra la Vella
+	region: Europe
+	subregion: Southern Europe
+	lat: 42.5
+	lng: 1.5
+	enabled: 1
+	area: 468
+AO:
+	name: Angola
+	uniCode: AO
+	currency: AOA
+	capital: Luanda
+	region: Africa
+	subregion: Middle Africa
+	lat: -12.5
+	lng: 18.5
+	enabled: 1
+	area: 1246700
+AI:
+	name: Anguilla
+	uniCode: AI
+	currency: XCD
+	capital: The Valley
+	region: Americas
+	subregion: Caribbean
+	lat: 18.25
+	lng: -63.16666666
+	enabled: 1
+	area: 91
+AQ:
+	name: Antarctica
+	uniCode: AQ
+	currency: 
+	capital: 
+	region: 
+	subregion: 
+	lat: -90
+	lng: 0
+	enabled: 1
+	area: 14000000
+AG:
+	name: Antigua and Barbuda
+	uniCode: AG
+	currency: XCD
+	capital: Saint John's
+	region: Americas
+	subregion: Caribbean
+	lat: 17.05
+	lng: -61.8
+	enabled: 1
+	area: 442
+AR:
+	name: Argentina
+	uniCode: AR
+	currency: ARS
+	capital: Buenos Aires
+	region: Americas
+	subregion: South America
+	lat: -34
+	lng: -64
+	enabled: 1
+	area: 2780400
+AM:
+	name: Armenia
+	uniCode: AM
+	currency: AMD
+	capital: Yerevan
+	region: Asia
+	subregion: Western Asia
+	lat: 40
+	lng: 45
+	enabled: 1
+	area: 29743
+AW:
+	name: Aruba
+	uniCode: AW
+	currency: AWG
+	capital: Oranjestad
+	region: Americas
+	subregion: Caribbean
+	lat: 12.5
+	lng: -69.96666666
+	enabled: 1
+	area: 180
+AU:
+	name: Australia
+	uniCode: AU
+	currency: AUD
+	capital: Canberra
+	region: Oceania
+	subregion: Australia and New Zealand
+	lat: -27
+	lng: 133
+	enabled: 1
+	area: 7692024
+AT:
+	name: Austria
+	uniCode: AT
+	currency: EUR
+	capital: Vienna
+	region: Europe
+	subregion: Western Europe
+	lat: 47.33333333
+	lng: 13.33333333
+	enabled: 1
+	area: 83871
+AZ:
+	name: Azerbaijan
+	uniCode: AZ
+	currency: AZN
+	capital: Baku
+	region: Asia
+	subregion: Western Asia
+	lat: 40.5
+	lng: 47.5
+	enabled: 1
+	area: 86600
+BS:
+	name: Bahamas
+	uniCode: BS
+	currency: BSD
+	capital: Nassau
+	region: Americas
+	subregion: Caribbean
+	lat: 24.25
+	lng: -76
+	enabled: 1
+	area: 13943
+BH:
+	name: Bahrain
+	uniCode: BH
+	currency: BHD
+	capital: Manama
+	region: Asia
+	subregion: Western Asia
+	lat: 26
+	lng: 50.55
+	enabled: 1
+	area: 765
+BD:
+	name: Bangladesh
+	uniCode: BD
+	currency: BDT
+	capital: Dhaka
+	region: Asia
+	subregion: Southern Asia
+	lat: 24
+	lng: 90
+	enabled: 1
+	area: 147570
+BB:
+	name: Barbados
+	uniCode: BB
+	currency: BBD
+	capital: Bridgetown
+	region: Americas
+	subregion: Caribbean
+	lat: 13.16666666
+	lng: -59.53333333
+	enabled: 1
+	area: 430
+BY:
+	name: Belarus
+	uniCode: BY
+	currency: BYR
+	capital: Minsk
+	region: Europe
+	subregion: Eastern Europe
+	lat: 53
+	lng: 28
+	enabled: 1
+	area: 207600
+BE:
+	name: Belgium
+	uniCode: BE
+	currency: EUR
+	capital: Brussels
+	region: Europe
+	subregion: Western Europe
+	lat: 50.83333333
+	lng: 4
+	enabled: 1
+	area: 30528
+BZ:
+	name: Belize
+	uniCode: BZ
+	currency: BZD
+	capital: Belmopan
+	region: Americas
+	subregion: Central America
+	lat: 17.25
+	lng: -88.75
+	enabled: 1
+	area: 22966
+BJ:
+	name: Benin
+	uniCode: BJ
+	currency: XOF
+	capital: Porto-Novo
+	region: Africa
+	subregion: Western Africa
+	lat: 9.5
+	lng: 2.25
+	enabled: 1
+	area: 112622
+BM:
+	name: Bermuda
+	uniCode: BM
+	currency: BMD
+	capital: Hamilton
+	region: Americas
+	subregion: Northern America
+	lat: 32.33333333
+	lng: -64.75
+	enabled: 1
+	area: 54
+BT:
+	name: Bhutan
+	uniCode: BT
+	currency: BTN
+	capital: Thimphu
+	region: Asia
+	subregion: Southern Asia
+	lat: 27.5
+	lng: 90.5
+	enabled: 1
+	area: 38394
+BO:
+	name: Bolivia
+	uniCode: BO
+	currency: BOB
+	capital: Sucre
+	region: Americas
+	subregion: South America
+	lat: -17
+	lng: -65
+	enabled: 1
+	area: 1098581
+BQ:
+	name: Bonaire
+	uniCode: BQ
+	currency: USD
+	capital: Kralendijk
+	region: Americas
+	subregion: Caribbean
+	lat: 12.15
+	lng: -68.266667
+	enabled: 1
+	area: 294
+BA:
+	name: Bosnia and Herzegovina
+	uniCode: BA
+	currency: BAM
+	capital: Sarajevo
+	region: Europe
+	subregion: Southern Europe
+	lat: 44
+	lng: 18
+	enabled: 1
+	area: 51209
+BW:
+	name: Botswana
+	uniCode: BW
+	currency: BWP
+	capital: Gaborone
+	region: Africa
+	subregion: Southern Africa
+	lat: -22
+	lng: 24
+	enabled: 1
+	area: 582000
+BV:
+	name: Bouvet Island
+	uniCode: BV
+	currency: NOK
+	capital: 
+	region: 
+	subregion: 
+	lat: -54.43333333
+	lng: 3.4
+	enabled: 1
+	area: 49
+BR:
+	name: Brazil
+	uniCode: BR
+	currency: BRL
+	capital: Brasília
+	region: Americas
+	subregion: South America
+	lat: -10
+	lng: -55
+	enabled: 1
+	area: 8515767
+IO:
+	name: British Indian Ocean Territory
+	uniCode: IO
+	currency: USD
+	capital: Diego Garcia
+	region: Africa
+	subregion: Eastern Africa
+	lat: -6
+	lng: 71.5
+	enabled: 1
+	area: 60
+VG:
+	name: British Virgin Islands
+	uniCode: VG
+	currency: USD
+	capital: Road Town
+	region: Americas
+	subregion: Caribbean
+	lat: 18.431383
+	lng: -64.62305
+	enabled: 1
+	area: 151
+BN:
+	name: Brunei
+	uniCode: BN
+	currency: BND
+	capital: Bandar Seri Begawan
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 4.5
+	lng: 114.66666666
+	enabled: 1
+	area: 5765
+BG:
+	name: Bulgaria
+	uniCode: BG
+	currency: BGN
+	capital: Sofia
+	region: Europe
+	subregion: Eastern Europe
+	lat: 43
+	lng: 25
+	enabled: 1
+	area: 110879
+BF:
+	name: Burkina Faso
+	uniCode: BF
+	currency: XOF
+	capital: Ouagadougou
+	region: Africa
+	subregion: Western Africa
+	lat: 13
+	lng: -2
+	enabled: 1
+	area: 272967
+BI:
+	name: Burundi
+	uniCode: BI
+	currency: BIF
+	capital: Bujumbura
+	region: Africa
+	subregion: Eastern Africa
+	lat: -3.5
+	lng: 30
+	enabled: 1
+	area: 27834
+KH:
+	name: Cambodia
+	uniCode: KH
+	currency: KHR
+	capital: Phnom Penh
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 13
+	lng: 105
+	enabled: 1
+	area: 181035
+CM:
+	name: Cameroon
+	uniCode: CM
+	currency: XAF
+	capital: Yaoundé
+	region: Africa
+	subregion: Middle Africa
+	lat: 6
+	lng: 12
+	enabled: 1
+	area: 475442
+CA:
+	name: Canada
+	uniCode: CA
+	currency: CAD
+	capital: Ottawa
+	region: Americas
+	subregion: Northern America
+	lat: 60
+	lng: -95
+	enabled: 1
+	area: 9984670
+CV:
+	name: Cape Verde
+	uniCode: CV
+	currency: CVE
+	capital: Praia
+	region: Africa
+	subregion: Western Africa
+	lat: 16
+	lng: -24
+	enabled: 1
+	area: 4033
+KY:
+	name: Cayman Islands
+	uniCode: KY
+	currency: KYD
+	capital: George Town
+	region: Americas
+	subregion: Caribbean
+	lat: 19.5
+	lng: -80.5
+	enabled: 1
+	area: 264
+CF:
+	name: Central African Republic
+	uniCode: CF
+	currency: XAF
+	capital: Bangui
+	region: Africa
+	subregion: Middle Africa
+	lat: 7
+	lng: 21
+	enabled: 1
+	area: 622984
+TD:
+	name: Chad
+	uniCode: TD
+	currency: XAF
+	capital: N'Djamena
+	region: Africa
+	subregion: Middle Africa
+	lat: 15
+	lng: 19
+	enabled: 1
+	area: 1284000
+CL:
+	name: Chile
+	uniCode: CL
+	currency: CLF
+	capital: Santiago
+	region: Americas
+	subregion: South America
+	lat: -30
+	lng: -71
+	enabled: 1
+	area: 756102
+CN:
+	name: China
+	uniCode: CN
+	currency: CNY
+	capital: Beijing
+	region: Asia
+	subregion: Eastern Asia
+	lat: 35
+	lng: 105
+	enabled: 1
+	area: 9706961
+CX:
+	name: Christmas Island
+	uniCode: CX
+	currency: AUD
+	capital: Flying Fish Cove
+	region: Oceania
+	subregion: Australia and New Zealand
+	lat: -10.5
+	lng: 105.66666666
+	enabled: 1
+	area: 135
+CC:
+	name: Cocos (Keeling) Islands
+	uniCode: CC
+	currency: AUD
+	capital: West Island
+	region: Oceania
+	subregion: Australia and New Zealand
+	lat: -12.5
+	lng: 96.83333333
+	enabled: 1
+	area: 14
+CO:
+	name: Colombia
+	uniCode: CO
+	currency: COP
+	capital: Bogotá
+	region: Americas
+	subregion: South America
+	lat: 4
+	lng: -72
+	enabled: 1
+	area: 1141748
+KM:
+	name: Comoros
+	uniCode: KM
+	currency: KMF
+	capital: Moroni
+	region: Africa
+	subregion: Eastern Africa
+	lat: -12.16666666
+	lng: 44.25
+	enabled: 1
+	area: 1862
+CG:
+	name: Republic of the Congo
+	uniCode: CG
+	currency: XAF
+	capital: Brazzaville
+	region: Africa
+	subregion: Middle Africa
+	lat: -1
+	lng: 15
+	enabled: 1
+	area: 342000
+CD:
+	name: DR Congo
+	uniCode: CD
+	currency: CDF
+	capital: Kinshasa
+	region: Africa
+	subregion: Middle Africa
+	lat: 0
+	lng: 25
+	enabled: 1
+	area: 2344858
+CK:
+	name: Cook Islands
+	uniCode: CK
+	currency: NZD
+	capital: Avarua
+	region: Oceania
+	subregion: Polynesia
+	lat: -21.23333333
+	lng: -159.76666666
+	enabled: 1
+	area: 236
+CR:
+	name: Costa Rica
+	uniCode: CR
+	currency: CRC
+	capital: San José
+	region: Americas
+	subregion: Central America
+	lat: 10
+	lng: -84
+	enabled: 1
+	area: 51100
+HR:
+	name: Croatia
+	uniCode: HR
+	currency: HRK
+	capital: Zagreb
+	region: Europe
+	subregion: Southern Europe
+	lat: 45.16666666
+	lng: 15.5
+	enabled: 1
+	area: 56594
+CU:
+	name: Cuba
+	uniCode: CU
+	currency: CUC
+	capital: Havana
+	region: Americas
+	subregion: Caribbean
+	lat: 21.5
+	lng: -80
+	enabled: 1
+	area: 109884
+CW:
+	name: Curaçao
+	uniCode: CW
+	currency: ANG
+	capital: Willemstad
+	region: Americas
+	subregion: Caribbean
+	lat: 12.116667
+	lng: -68.933333
+	enabled: 1
+	area: 444
+CY:
+	name: Cyprus
+	uniCode: CY
+	currency: EUR
+	capital: Nicosia
+	region: Europe
+	subregion: Eastern Europe
+	lat: 35
+	lng: 33
+	enabled: 1
+	area: 9251
+CZ:
+	name: Czech Republic
+	uniCode: CZ
+	currency: CZK
+	capital: Prague
+	region: Europe
+	subregion: Eastern Europe
+	lat: 49.75
+	lng: 15.5
+	enabled: 1
+	area: 78865
+DK:
+	name: Denmark
+	uniCode: DK
+	currency: DKK
+	capital: Copenhagen
+	region: Europe
+	subregion: Northern Europe
+	lat: 56
+	lng: 10
+	enabled: 1
+	area: 43094
+DJ:
+	name: Djibouti
+	uniCode: DJ
+	currency: DJF
+	capital: Djibouti
+	region: Africa
+	subregion: Eastern Africa
+	lat: 11.5
+	lng: 43
+	enabled: 1
+	area: 23200
+DM:
+	name: Dominica
+	uniCode: DM
+	currency: XCD
+	capital: Roseau
+	region: Americas
+	subregion: Caribbean
+	lat: 15.41666666
+	lng: -61.33333333
+	enabled: 1
+	area: 751
+DO:
+	name: Dominican Republic
+	uniCode: DO
+	currency: DOP
+	capital: Santo Domingo
+	region: Americas
+	subregion: Caribbean
+	lat: 19
+	lng: -70.66666666
+	enabled: 1
+	area: 48671
+EC:
+	name: Ecuador
+	uniCode: EC
+	currency: USD
+	capital: Quito
+	region: Americas
+	subregion: South America
+	lat: -2
+	lng: -77.5
+	enabled: 1
+	area: 276841
+EG:
+	name: Egypt
+	uniCode: EG
+	currency: EGP
+	capital: Cairo
+	region: Africa
+	subregion: Northern Africa
+	lat: 27
+	lng: 30
+	enabled: 1
+	area: 1002450
+SV:
+	name: El Salvador
+	uniCode: SV
+	currency: SVC
+	capital: San Salvador
+	region: Americas
+	subregion: Central America
+	lat: 13.83333333
+	lng: -88.91666666
+	enabled: 1
+	area: 21041
+GQ:
+	name: Equatorial Guinea
+	uniCode: GQ
+	currency: XAF
+	capital: Malabo
+	region: Africa
+	subregion: Middle Africa
+	lat: 2
+	lng: 10
+	enabled: 1
+	area: 28051
+ER:
+	name: Eritrea
+	uniCode: ER
+	currency: ERN
+	capital: Asmara
+	region: Africa
+	subregion: Eastern Africa
+	lat: 15
+	lng: 39
+	enabled: 1
+	area: 117600
+EE:
+	name: Estonia
+	uniCode: EE
+	currency: EUR
+	capital: Tallinn
+	region: Europe
+	subregion: Northern Europe
+	lat: 59
+	lng: 26
+	enabled: 1
+	area: 45227
+ET:
+	name: Ethiopia
+	uniCode: ET
+	currency: ETB
+	capital: Addis Ababa
+	region: Africa
+	subregion: Eastern Africa
+	lat: 8
+	lng: 38
+	enabled: 1
+	area: 1104300
+FK:
+	name: Falkland Islands
+	uniCode: FK
+	currency: FKP
+	capital: Stanley
+	region: Americas
+	subregion: South America
+	lat: -51.75
+	lng: -59
+	enabled: 1
+	area: 12173
+FO:
+	name: Faroe Islands
+	uniCode: FO
+	currency: DKK
+	capital: Tórshavn
+	region: Europe
+	subregion: Northern Europe
+	lat: 62
+	lng: -7
+	enabled: 1
+	area: 1393
+FJ:
+	name: Fiji
+	uniCode: FJ
+	currency: FJD
+	capital: Suva
+	region: Oceania
+	subregion: Melanesia
+	lat: -18
+	lng: 175
+	enabled: 1
+	area: 18272
+FI:
+	name: Finland
+	uniCode: FI
+	currency: EUR
+	capital: Helsinki
+	region: Europe
+	subregion: Northern Europe
+	lat: 64
+	lng: 26
+	enabled: 1
+	area: 338424
+FR:
+	name: France
+	uniCode: FR
+	currency: EUR
+	capital: Paris
+	region: Europe
+	subregion: Western Europe
+	lat: 46
+	lng: 2
+	enabled: 1
+	area: 551695
+GF:
+	name: French Guiana
+	uniCode: GF
+	currency: EUR
+	capital: Cayenne
+	region: Americas
+	subregion: South America
+	lat: 4
+	lng: -53
+	enabled: 1
+	area: 83534
+PF:
+	name: French Polynesia
+	uniCode: PF
+	currency: XPF
+	capital: Papeetē
+	region: Oceania
+	subregion: Polynesia
+	lat: -15
+	lng: -140
+	enabled: 1
+	area: 4167
+TF:
+	name: French Southern and Antarctic Lands
+	uniCode: TF
+	currency: EUR
+	capital: Port-aux-Français
+	region: 
+	subregion: 
+	lat: -49.25
+	lng: 69.167
+	enabled: 1
+	area: 7747
+GA:
+	name: Gabon
+	uniCode: GA
+	currency: XAF
+	capital: Libreville
+	region: Africa
+	subregion: Middle Africa
+	lat: -1
+	lng: 11.75
+	enabled: 1
+	area: 267668
+GM:
+	name: Gambia
+	uniCode: GM
+	currency: GMD
+	capital: Banjul
+	region: Africa
+	subregion: Western Africa
+	lat: 13.46666666
+	lng: -16.56666666
+	enabled: 1
+	area: 10689
+GE:
+	name: Georgia
+	uniCode: GE
+	currency: GEL
+	capital: Tbilisi
+	region: Asia
+	subregion: Western Asia
+	lat: 42
+	lng: 43.5
+	enabled: 1
+	area: 69700
+DE:
+	name: Germany
+	uniCode: DE
+	currency: EUR
+	capital: Berlin
+	region: Europe
+	subregion: Western Europe
+	lat: 51
+	lng: 9
+	enabled: 1
+	area: 357114
+GH:
+	name: Ghana
+	uniCode: GH
+	currency: GHS
+	capital: Accra
+	region: Africa
+	subregion: Western Africa
+	lat: 8
+	lng: -2
+	enabled: 1
+	area: 238533
+GI:
+	name: Gibraltar
+	uniCode: GI
+	currency: GIP
+	capital: Gibraltar
+	region: Europe
+	subregion: Southern Europe
+	lat: 36.13333333
+	lng: -5.35
+	enabled: 1
+	area: 6
+GR:
+	name: Greece
+	uniCode: GR
+	currency: EUR
+	capital: Athens
+	region: Europe
+	subregion: Southern Europe
+	lat: 39
+	lng: 22
+	enabled: 1
+	area: 131990
+GL:
+	name: Greenland
+	uniCode: GL
+	currency: DKK
+	capital: Nuuk
+	region: Americas
+	subregion: Northern America
+	lat: 72
+	lng: -40
+	enabled: 1
+	area: 2166086
+GD:
+	name: Grenada
+	uniCode: GD
+	currency: XCD
+	capital: St. George's
+	region: Americas
+	subregion: Caribbean
+	lat: 12.11666666
+	lng: -61.66666666
+	enabled: 1
+	area: 344
+GP:
+	name: Guadeloupe
+	uniCode: GP
+	currency: EUR
+	capital: Basse-Terre
+	region: Americas
+	subregion: Caribbean
+	lat: 16.25
+	lng: -61.583333
+	enabled: 1
+	area: 1628
+GU:
+	name: Guam
+	uniCode: GU
+	currency: USD
+	capital: Hagåtña
+	region: Oceania
+	subregion: Micronesia
+	lat: 13.46666666
+	lng: 144.78333333
+	enabled: 1
+	area: 549
+GT:
+	name: Guatemala
+	uniCode: GT
+	currency: GTQ
+	capital: Guatemala City
+	region: Americas
+	subregion: Central America
+	lat: 15.5
+	lng: -90.25
+	enabled: 1
+	area: 108889
+GG:
+	name: Guernsey
+	uniCode: GG
+	currency: GBP
+	capital: St. Peter Port
+	region: Europe
+	subregion: Northern Europe
+	lat: 49.46666666
+	lng: -2.58333333
+	enabled: 1
+	area: 78
+GN:
+	name: Guinea
+	uniCode: GN
+	currency: GNF
+	capital: Conakry
+	region: Africa
+	subregion: Western Africa
+	lat: 11
+	lng: -10
+	enabled: 1
+	area: 245857
+GW:
+	name: Guinea-Bissau
+	uniCode: GW
+	currency: XOF
+	capital: Bissau
+	region: Africa
+	subregion: Western Africa
+	lat: 12
+	lng: -15
+	enabled: 1
+	area: 36125
+GY:
+	name: Guyana
+	uniCode: GY
+	currency: GYD
+	capital: Georgetown
+	region: Americas
+	subregion: South America
+	lat: 5
+	lng: -59
+	enabled: 1
+	area: 214969
+HT:
+	name: Haiti
+	uniCode: HT
+	currency: HTG
+	capital: Port-au-Prince
+	region: Americas
+	subregion: Caribbean
+	lat: 19
+	lng: -72.41666666
+	enabled: 1
+	area: 27750
+HM:
+	name: Heard Island and McDonald Islands
+	uniCode: HM
+	currency: AUD
+	capital: 
+	region: 
+	subregion: 
+	lat: -53.1
+	lng: 72.51666666
+	enabled: 1
+	area: 412
+VA:
+	name: Vatican City
+	uniCode: VA
+	currency: EUR
+	capital: Vatican City
+	region: Europe
+	subregion: Southern Europe
+	lat: 41.9
+	lng: 12.45
+	enabled: 1
+	area: 0.44
+HN:
+	name: Honduras
+	uniCode: HN
+	currency: HNL
+	capital: Tegucigalpa
+	region: Americas
+	subregion: Central America
+	lat: 15
+	lng: -86.5
+	enabled: 1
+	area: 112492
+HK:
+	name: Hong Kong
+	uniCode: HK
+	currency: HKD
+	capital: City of Victoria
+	region: Asia
+	subregion: Eastern Asia
+	lat: 22.267
+	lng: 114.188
+	enabled: 1
+	area: 1104
+HU:
+	name: Hungary
+	uniCode: HU
+	currency: HUF
+	capital: Budapest
+	region: Europe
+	subregion: Eastern Europe
+	lat: 47
+	lng: 20
+	enabled: 1
+	area: 93028
+IS:
+	name: Iceland
+	uniCode: IS
+	currency: ISK
+	capital: Reykjavik
+	region: Europe
+	subregion: Northern Europe
+	lat: 65
+	lng: -18
+	enabled: 1
+	area: 103000
+IN:
+	name: India
+	uniCode: IN
+	currency: INR
+	capital: New Delhi
+	region: Asia
+	subregion: Southern Asia
+	lat: 20
+	lng: 77
+	enabled: 1
+	area: 3287590
+ID:
+	name: Indonesia
+	uniCode: ID
+	currency: IDR
+	capital: Jakarta
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: -5
+	lng: 120
+	enabled: 1
+	area: 1904569
+CI:
+	name: Ivory Coast
+	uniCode: CI
+	currency: XOF
+	capital: Yamoussoukro
+	region: Africa
+	subregion: Western Africa
+	lat: 8
+	lng: -5
+	enabled: 1
+	area: 322463
+IR:
+	name: Iran
+	uniCode: IR
+	currency: IRR
+	capital: Tehran
+	region: Asia
+	subregion: Southern Asia
+	lat: 32
+	lng: 53
+	enabled: 1
+	area: 1648195
+IQ:
+	name: Iraq
+	uniCode: IQ
+	currency: IQD
+	capital: Baghdad
+	region: Asia
+	subregion: Western Asia
+	lat: 33
+	lng: 44
+	enabled: 1
+	area: 438317
+IE:
+	name: Ireland
+	uniCode: IE
+	currency: EUR
+	capital: Dublin
+	region: Europe
+	subregion: Northern Europe
+	lat: 53
+	lng: -8
+	enabled: 1
+	area: 70273
+IM:
+	name: Isle of Man
+	uniCode: IM
+	currency: GBP
+	capital: Douglas
+	region: Europe
+	subregion: Northern Europe
+	lat: 54.25
+	lng: -4.5
+	enabled: 1
+	area: 572
+IL:
+	name: Israel
+	uniCode: IL
+	currency: ILS
+	capital: Jerusalem
+	region: Asia
+	subregion: Western Asia
+	lat: 31.47
+	lng: 35.13
+	enabled: 1
+	area: 20770
+IT:
+	name: Italy
+	uniCode: IT
+	currency: EUR
+	capital: Rome
+	region: Europe
+	subregion: Southern Europe
+	lat: 42.83333333
+	lng: 12.83333333
+	enabled: 1
+	area: 301336
+JM:
+	name: Jamaica
+	uniCode: JM
+	currency: JMD
+	capital: Kingston
+	region: Americas
+	subregion: Caribbean
+	lat: 18.25
+	lng: -77.5
+	enabled: 1
+	area: 10991
+JP:
+	name: Japan
+	uniCode: JP
+	currency: JPY
+	capital: Tokyo
+	region: Asia
+	subregion: Eastern Asia
+	lat: 36
+	lng: 138
+	enabled: 1
+	area: 377930
+JE:
+	name: Jersey
+	uniCode: JE
+	currency: GBP
+	capital: Saint Helier
+	region: Europe
+	subregion: Northern Europe
+	lat: 49.25
+	lng: -2.16666666
+	enabled: 1
+	area: 116
+JO:
+	name: Jordan
+	uniCode: JO
+	currency: JOD
+	capital: Amman
+	region: Asia
+	subregion: Western Asia
+	lat: 31
+	lng: 36
+	enabled: 1
+	area: 89342
+KZ:
+	name: Kazakhstan
+	uniCode: KZ
+	currency: KZT
+	capital: Astana
+	region: Asia
+	subregion: Central Asia
+	lat: 48
+	lng: 68
+	enabled: 1
+	area: 2724900
+KE:
+	name: Kenya
+	uniCode: KE
+	currency: KES
+	capital: Nairobi
+	region: Africa
+	subregion: Eastern Africa
+	lat: 1
+	lng: 38
+	enabled: 1
+	area: 580367
+KI:
+	name: Kiribati
+	uniCode: KI
+	currency: AUD
+	capital: South Tarawa
+	region: Oceania
+	subregion: Micronesia
+	lat: 1.41666666
+	lng: 173
+	enabled: 1
+	area: 811
+KW:
+	name: Kuwait
+	uniCode: KW
+	currency: KWD
+	capital: Kuwait City
+	region: Asia
+	subregion: Western Asia
+	lat: 29.5
+	lng: 45.75
+	enabled: 1
+	area: 17818
+KG:
+	name: Kyrgyzstan
+	uniCode: KG
+	currency: KGS
+	capital: Bishkek
+	region: Asia
+	subregion: Central Asia
+	lat: 41
+	lng: 75
+	enabled: 1
+	area: 199951
+LA:
+	name: Laos
+	uniCode: LA
+	currency: LAK
+	capital: Vientiane
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 18
+	lng: 105
+	enabled: 1
+	area: 236800
+LV:
+	name: Latvia
+	uniCode: LV
+	currency: EUR
+	capital: Riga
+	region: Europe
+	subregion: Northern Europe
+	lat: 57
+	lng: 25
+	enabled: 1
+	area: 64559
+LB:
+	name: Lebanon
+	uniCode: LB
+	currency: LBP
+	capital: Beirut
+	region: Asia
+	subregion: Western Asia
+	lat: 33.83333333
+	lng: 35.83333333
+	enabled: 1
+	area: 10452
+LS:
+	name: Lesotho
+	uniCode: LS
+	currency: LSL
+	capital: Maseru
+	region: Africa
+	subregion: Southern Africa
+	lat: -29.5
+	lng: 28.5
+	enabled: 1
+	area: 30355
+LR:
+	name: Liberia
+	uniCode: LR
+	currency: LRD
+	capital: Monrovia
+	region: Africa
+	subregion: Western Africa
+	lat: 6.5
+	lng: -9.5
+	enabled: 1
+	area: 111369
+LY:
+	name: Libya
+	uniCode: LY
+	currency: LYD
+	capital: Tripoli
+	region: Africa
+	subregion: Northern Africa
+	lat: 25
+	lng: 17
+	enabled: 1
+	area: 1759540
+LI:
+	name: Liechtenstein
+	uniCode: LI
+	currency: CHF
+	capital: Vaduz
+	region: Europe
+	subregion: Western Europe
+	lat: 47.26666666
+	lng: 9.53333333
+	enabled: 1
+	area: 160
+LT:
+	name: Lithuania
+	uniCode: LT
+	currency: LTL
+	capital: Vilnius
+	region: Europe
+	subregion: Northern Europe
+	lat: 56
+	lng: 24
+	enabled: 1
+	area: 65300
+LU:
+	name: Luxembourg
+	uniCode: LU
+	currency: EUR
+	capital: Luxembourg
+	region: Europe
+	subregion: Western Europe
+	lat: 49.75
+	lng: 6.16666666
+	enabled: 1
+	area: 2586
+MO:
+	name: Macau
+	uniCode: MO
+	currency: MOP
+	capital: 
+	region: Asia
+	subregion: Eastern Asia
+	lat: 22.16666666
+	lng: 113.55
+	enabled: 1
+	area: 30
+MK:
+	name: Macedonia
+	uniCode: MK
+	currency: MKD
+	capital: Skopje
+	region: Europe
+	subregion: Southern Europe
+	lat: 41.83333333
+	lng: 22
+	enabled: 1
+	area: 25713
+MG:
+	name: Madagascar
+	uniCode: MG
+	currency: MGA
+	capital: Antananarivo
+	region: Africa
+	subregion: Eastern Africa
+	lat: -20
+	lng: 47
+	enabled: 1
+	area: 587041
+MW:
+	name: Malawi
+	uniCode: MW
+	currency: MWK
+	capital: Lilongwe
+	region: Africa
+	subregion: Eastern Africa
+	lat: -13.5
+	lng: 34
+	enabled: 1
+	area: 118484
+MY:
+	name: Malaysia
+	uniCode: MY
+	currency: MYR
+	capital: Kuala Lumpur
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 2.5
+	lng: 112.5
+	enabled: 1
+	area: 330803
+MV:
+	name: Maldives
+	uniCode: MV
+	currency: MVR
+	capital: Malé
+	region: Asia
+	subregion: Southern Asia
+	lat: 3.25
+	lng: 73
+	enabled: 1
+	area: 300
+ML:
+	name: Mali
+	uniCode: ML
+	currency: XOF
+	capital: Bamako
+	region: Africa
+	subregion: Western Africa
+	lat: 17
+	lng: -4
+	enabled: 1
+	area: 1240192
+MT:
+	name: Malta
+	uniCode: MT
+	currency: EUR
+	capital: Valletta
+	region: Europe
+	subregion: Southern Europe
+	lat: 35.83333333
+	lng: 14.58333333
+	enabled: 1
+	area: 316
+MH:
+	name: Marshall Islands
+	uniCode: MH
+	currency: USD
+	capital: Majuro
+	region: Oceania
+	subregion: Micronesia
+	lat: 9
+	lng: 168
+	enabled: 1
+	area: 181
+MQ:
+	name: Martinique
+	uniCode: MQ
+	currency: EUR
+	capital: Fort-de-France
+	region: Americas
+	subregion: Caribbean
+	lat: 14.666667
+	lng: -61
+	enabled: 1
+	area: 1128
+MR:
+	name: Mauritania
+	uniCode: MR
+	currency: MRO
+	capital: Nouakchott
+	region: Africa
+	subregion: Western Africa
+	lat: 20
+	lng: -12
+	enabled: 1
+	area: 1030700
+MU:
+	name: Mauritius
+	uniCode: MU
+	currency: MUR
+	capital: Port Louis
+	region: Africa
+	subregion: Eastern Africa
+	lat: -20.28333333
+	lng: 57.55
+	enabled: 1
+	area: 2040
+YT:
+	name: Mayotte
+	uniCode: YT
+	currency: EUR
+	capital: Mamoudzou
+	region: Africa
+	subregion: Eastern Africa
+	lat: -12.83333333
+	lng: 45.16666666
+	enabled: 1
+	area: 374
+MX:
+	name: Mexico
+	uniCode: MX
+	currency: MXN
+	capital: Mexico City
+	region: Americas
+	subregion: Central America
+	lat: 23
+	lng: -102
+	enabled: 1
+	area: 1964375
+FM:
+	name: Micronesia
+	uniCode: FM
+	currency: USD
+	capital: Palikir
+	region: Oceania
+	subregion: Micronesia
+	lat: 6.91666666
+	lng: 158.25
+	enabled: 1
+	area: 702
+MD:
+	name: Moldova
+	uniCode: MD
+	currency: MDL
+	capital: Chișinău
+	region: Europe
+	subregion: Eastern Europe
+	lat: 47
+	lng: 29
+	enabled: 1
+	area: 33846
+MC:
+	name: Monaco
+	uniCode: MC
+	currency: EUR
+	capital: Monaco
+	region: Europe
+	subregion: Western Europe
+	lat: 43.73333333
+	lng: 7.4
+	enabled: 1
+	area: 2.02
+MN:
+	name: Mongolia
+	uniCode: MN
+	currency: MNT
+	capital: Ulan Bator
+	region: Asia
+	subregion: Eastern Asia
+	lat: 46
+	lng: 105
+	enabled: 1
+	area: 1564110
+ME:
+	name: Montenegro
+	uniCode: ME
+	currency: EUR
+	capital: Podgorica
+	region: Europe
+	subregion: Southern Europe
+	lat: 42.5
+	lng: 19.3
+	enabled: 1
+	area: 13812
+MS:
+	name: Montserrat
+	uniCode: MS
+	currency: XCD
+	capital: Plymouth
+	region: Americas
+	subregion: Caribbean
+	lat: 16.75
+	lng: -62.2
+	enabled: 1
+	area: 102
+MA:
+	name: Morocco
+	uniCode: MA
+	currency: MAD
+	capital: Rabat
+	region: Africa
+	subregion: Northern Africa
+	lat: 32
+	lng: -5
+	enabled: 1
+	area: 446550
+MZ:
+	name: Mozambique
+	uniCode: MZ
+	currency: MZN
+	capital: Maputo
+	region: Africa
+	subregion: Eastern Africa
+	lat: -18.25
+	lng: 35
+	enabled: 1
+	area: 801590
+MM:
+	name: Myanmar
+	uniCode: MM
+	currency: MMK
+	capital: Naypyidaw
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 22
+	lng: 98
+	enabled: 1
+	area: 676578
+NA:
+	name: Namibia
+	uniCode: NA
+	currency: NAD
+	capital: Windhoek
+	region: Africa
+	subregion: Southern Africa
+	lat: -22
+	lng: 17
+	enabled: 1
+	area: 825615
+NR:
+	name: Nauru
+	uniCode: NR
+	currency: AUD
+	capital: Yaren
+	region: Oceania
+	subregion: Micronesia
+	lat: -0.53333333
+	lng: 166.91666666
+	enabled: 1
+	area: 21
+NP:
+	name: Nepal
+	uniCode: NP
+	currency: NPR
+	capital: Kathmandu
+	region: Asia
+	subregion: Southern Asia
+	lat: 28
+	lng: 84
+	enabled: 1
+	area: 147181
+NL:
+	name: Netherlands
+	uniCode: NL
+	currency: EUR
+	capital: Amsterdam
+	region: Europe
+	subregion: Western Europe
+	lat: 52.5
+	lng: 5.75
+	enabled: 1
+	area: 41850
+NC:
+	name: New Caledonia
+	uniCode: NC
+	currency: XPF
+	capital: Nouméa
+	region: Oceania
+	subregion: Melanesia
+	lat: -21.5
+	lng: 165.5
+	enabled: 1
+	area: 18575
+NZ:
+	name: New Zealand
+	uniCode: NZ
+	currency: NZD
+	capital: Wellington
+	region: Oceania
+	subregion: Australia and New Zealand
+	lat: -41
+	lng: 174
+	enabled: 1
+	area: 270467
+NI:
+	name: Nicaragua
+	uniCode: NI
+	currency: NIO
+	capital: Managua
+	region: Americas
+	subregion: Central America
+	lat: 13
+	lng: -85
+	enabled: 1
+	area: 130373
+NE:
+	name: Niger
+	uniCode: NE
+	currency: XOF
+	capital: Niamey
+	region: Africa
+	subregion: Western Africa
+	lat: 16
+	lng: 8
+	enabled: 1
+	area: 1267000
+NG:
+	name: Nigeria
+	uniCode: NG
+	currency: NGN
+	capital: Abuja
+	region: Africa
+	subregion: Western Africa
+	lat: 10
+	lng: 8
+	enabled: 1
+	area: 923768
+NU:
+	name: Niue
+	uniCode: NU
+	currency: NZD
+	capital: Alofi
+	region: Oceania
+	subregion: Polynesia
+	lat: -19.03333333
+	lng: -169.86666666
+	enabled: 1
+	area: 260
+NF:
+	name: Norfolk Island
+	uniCode: NF
+	currency: AUD
+	capital: Kingston
+	region: Oceania
+	subregion: Australia and New Zealand
+	lat: -29.03333333
+	lng: 167.95
+	enabled: 1
+	area: 36
+KP:
+	name: North Korea
+	uniCode: KP
+	currency: KPW
+	capital: Pyongyang
+	region: Asia
+	subregion: Eastern Asia
+	lat: 40
+	lng: 127
+	enabled: 1
+	area: 120538
+MP:
+	name: Northern Mariana Islands
+	uniCode: MP
+	currency: USD
+	capital: Saipan
+	region: Oceania
+	subregion: Micronesia
+	lat: 15.2
+	lng: 145.75
+	enabled: 1
+	area: 464
+NO:
+	name: Norway
+	uniCode: NO
+	currency: NOK
+	capital: Oslo
+	region: Europe
+	subregion: Northern Europe
+	lat: 62
+	lng: 10
+	enabled: 1
+	area: 323802
+OM:
+	name: Oman
+	uniCode: OM
+	currency: OMR
+	capital: Muscat
+	region: Asia
+	subregion: Western Asia
+	lat: 21
+	lng: 57
+	enabled: 1
+	area: 309500
+PK:
+	name: Pakistan
+	uniCode: PK
+	currency: PKR
+	capital: Islamabad
+	region: Asia
+	subregion: Southern Asia
+	lat: 30
+	lng: 70
+	enabled: 1
+	area: 881912
+PW:
+	name: Palau
+	uniCode: PW
+	currency: USD
+	capital: Ngerulmud
+	region: Oceania
+	subregion: Micronesia
+	lat: 7.5
+	lng: 134.5
+	enabled: 1
+	area: 459
+PS:
+	name: Palestine
+	uniCode: PS
+	currency: ILS
+	capital: Ramallah
+	region: Asia
+	subregion: Western Asia
+	lat: 31.9
+	lng: 35.2
+	enabled: 1
+	area: 6220
+PA:
+	name: Panama
+	uniCode: PA
+	currency: PAB
+	capital: Panama City
+	region: Americas
+	subregion: Central America
+	lat: 9
+	lng: -80
+	enabled: 1
+	area: 75417
+PG:
+	name: Papua New Guinea
+	uniCode: PG
+	currency: PGK
+	capital: Port Moresby
+	region: Oceania
+	subregion: Melanesia
+	lat: -6
+	lng: 147
+	enabled: 1
+	area: 462840
+PY:
+	name: Paraguay
+	uniCode: PY
+	currency: PYG
+	capital: Asunción
+	region: Americas
+	subregion: South America
+	lat: -23
+	lng: -58
+	enabled: 1
+	area: 406752
+PE:
+	name: Peru
+	uniCode: PE
+	currency: PEN
+	capital: Lima
+	region: Americas
+	subregion: South America
+	lat: -10
+	lng: -76
+	enabled: 1
+	area: 1285216
+PH:
+	name: Philippines
+	uniCode: PH
+	currency: PHP
+	capital: Manila
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 13
+	lng: 122
+	enabled: 1
+	area: 342353
+PN:
+	name: Pitcairn Islands
+	uniCode: PN
+	currency: NZD
+	capital: Adamstown
+	region: Oceania
+	subregion: Polynesia
+	lat: -25.06666666
+	lng: -130.1
+	enabled: 1
+	area: 47
+PL:
+	name: Poland
+	uniCode: PL
+	currency: PLN
+	capital: Warsaw
+	region: Europe
+	subregion: Eastern Europe
+	lat: 52
+	lng: 20
+	enabled: 1
+	area: 312679
+PT:
+	name: Portugal
+	uniCode: PT
+	currency: EUR
+	capital: Lisbon
+	region: Europe
+	subregion: Southern Europe
+	lat: 39.5
+	lng: -8
+	enabled: 1
+	area: 92090
+PR:
+	name: Puerto Rico
+	uniCode: PR
+	currency: USD
+	capital: San Juan
+	region: Americas
+	subregion: Caribbean
+	lat: 18.25
+	lng: -66.5
+	enabled: 1
+	area: 8870
+QA:
+	name: Qatar
+	uniCode: QA
+	currency: QAR
+	capital: Doha
+	region: Asia
+	subregion: Western Asia
+	lat: 25.5
+	lng: 51.25
+	enabled: 1
+	area: 11586
+XK:
+	name: Kosovo
+	uniCode: XK
+	currency: EUR
+	capital: Pristina
+	region: Europe
+	subregion: Eastern Europe
+	lat: 42.666667
+	lng: 21.166667
+	enabled: 1
+	area: 10908
+RE:
+	name: Réunion
+	uniCode: RE
+	currency: EUR
+	capital: Saint-Denis
+	region: Africa
+	subregion: Eastern Africa
+	lat: -21.15
+	lng: 55.5
+	enabled: 1
+	area: 2511
+RO:
+	name: Romania
+	uniCode: RO
+	currency: RON
+	capital: Bucharest
+	region: Europe
+	subregion: Eastern Europe
+	lat: 46
+	lng: 25
+	enabled: 1
+	area: 238391
+RU:
+	name: Russia
+	uniCode: RU
+	currency: RUB
+	capital: Moscow
+	region: Europe
+	subregion: Eastern Europe
+	lat: 60
+	lng: 100
+	enabled: 1
+	area: 17098242
+RW:
+	name: Rwanda
+	uniCode: RW
+	currency: RWF
+	capital: Kigali
+	region: Africa
+	subregion: Eastern Africa
+	lat: -2
+	lng: 30
+	enabled: 1
+	area: 26338
+BL:
+	name: Saint Barthélemy
+	uniCode: BL
+	currency: EUR
+	capital: Gustavia
+	region: Americas
+	subregion: Caribbean
+	lat: 18.5
+	lng: -63.41666666
+	enabled: 1
+	area: 21
+SH:
+	name: Saint Helena, Ascension and Tristan da Cunha
+	uniCode: SH
+	currency: SHP
+	capital: Jamestown
+	region: Africa
+	subregion: Western Africa
+	lat: -15.95
+	lng: -5.7
+	enabled: 1
+	area: 397
+KN:
+	name: Saint Kitts and Nevis
+	uniCode: KN
+	currency: XCD
+	capital: Basseterre
+	region: Americas
+	subregion: Caribbean
+	lat: 17.33333333
+	lng: -62.75
+	enabled: 1
+	area: 261
+LC:
+	name: Saint Lucia
+	uniCode: LC
+	currency: XCD
+	capital: Castries
+	region: Americas
+	subregion: Caribbean
+	lat: 13.88333333
+	lng: -60.96666666
+	enabled: 1
+	area: 616
+MF:
+	name: Saint Martin
+	uniCode: MF
+	currency: EUR
+	capital: Marigot
+	region: Americas
+	subregion: Caribbean
+	lat: 18.08333333
+	lng: -63.95
+	enabled: 1
+	area: 53
+PM:
+	name: Saint Pierre and Miquelon
+	uniCode: PM
+	currency: EUR
+	capital: Saint-Pierre
+	region: Americas
+	subregion: Northern America
+	lat: 46.83333333
+	lng: -56.33333333
+	enabled: 1
+	area: 242
+VC:
+	name: Saint Vincent and the Grenadines
+	uniCode: VC
+	currency: XCD
+	capital: Kingstown
+	region: Americas
+	subregion: Caribbean
+	lat: 13.25
+	lng: -61.2
+	enabled: 1
+	area: 389
+WS:
+	name: Samoa
+	uniCode: WS
+	currency: WST
+	capital: Apia
+	region: Oceania
+	subregion: Polynesia
+	lat: -13.58333333
+	lng: -172.33333333
+	enabled: 1
+	area: 2842
+SM:
+	name: San Marino
+	uniCode: SM
+	currency: EUR
+	capital: City of San Marino
+	region: Europe
+	subregion: Southern Europe
+	lat: 43.76666666
+	lng: 12.41666666
+	enabled: 1
+	area: 61
+ST:
+	name: São Tomé and Príncipe
+	uniCode: ST
+	currency: STD
+	capital: São Tomé
+	region: Africa
+	subregion: Middle Africa
+	lat: 1
+	lng: 7
+	enabled: 1
+	area: 964
+SA:
+	name: Saudi Arabia
+	uniCode: SA
+	currency: SAR
+	capital: Riyadh
+	region: Asia
+	subregion: Western Asia
+	lat: 25
+	lng: 45
+	enabled: 1
+	area: 2149690
+SN:
+	name: Senegal
+	uniCode: SN
+	currency: XOF
+	capital: Dakar
+	region: Africa
+	subregion: Western Africa
+	lat: 14
+	lng: -14
+	enabled: 1
+	area: 196722
+RS:
+	name: Serbia
+	uniCode: RS
+	currency: RSD
+	capital: Belgrade
+	region: Europe
+	subregion: Southern Europe
+	lat: 44
+	lng: 21
+	enabled: 1
+	area: 88361
+SC:
+	name: Seychelles
+	uniCode: SC
+	currency: SCR
+	capital: Victoria
+	region: Africa
+	subregion: Eastern Africa
+	lat: -4.58333333
+	lng: 55.66666666
+	enabled: 1
+	area: 452
+SL:
+	name: Sierra Leone
+	uniCode: SL
+	currency: SLL
+	capital: Freetown
+	region: Africa
+	subregion: Western Africa
+	lat: 8.5
+	lng: -11.5
+	enabled: 1
+	area: 71740
+SG:
+	name: Singapore
+	uniCode: SG
+	currency: SGD
+	capital: Singapore
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 1.36666666
+	lng: 103.8
+	enabled: 1
+	area: 710
+SX:
+	name: Sint Maarten
+	uniCode: SX
+	currency: ANG
+	capital: Philipsburg
+	region: Americas
+	subregion: Caribbean
+	lat: 18.033333
+	lng: -63.05
+	enabled: 1
+	area: 34
+SK:
+	name: Slovakia
+	uniCode: SK
+	currency: EUR
+	capital: Bratislava
+	region: Europe
+	subregion: Eastern Europe
+	lat: 48.66666666
+	lng: 19.5
+	enabled: 1
+	area: 49037
+SI:
+	name: Slovenia
+	uniCode: SI
+	currency: EUR
+	capital: Ljubljana
+	region: Europe
+	subregion: Southern Europe
+	lat: 46.11666666
+	lng: 14.81666666
+	enabled: 1
+	area: 20273
+SB:
+	name: Solomon Islands
+	uniCode: SB
+	currency: SDB
+	capital: Honiara
+	region: Oceania
+	subregion: Melanesia
+	lat: -8
+	lng: 159
+	enabled: 1
+	area: 28896
+SO:
+	name: Somalia
+	uniCode: SO
+	currency: SOS
+	capital: Mogadishu
+	region: Africa
+	subregion: Eastern Africa
+	lat: 10
+	lng: 49
+	enabled: 1
+	area: 637657
+ZA:
+	name: South Africa
+	uniCode: ZA
+	currency: ZAR
+	capital: Pretoria
+	region: Africa
+	subregion: Southern Africa
+	lat: -29
+	lng: 24
+	enabled: 1
+	area: 1221037
+GS:
+	name: South Georgia
+	uniCode: GS
+	currency: GBP
+	capital: King Edward Point
+	region: Americas
+	subregion: South America
+	lat: -54.5
+	lng: -37
+	enabled: 1
+	area: 3903
+KR:
+	name: South Korea
+	uniCode: KR
+	currency: KRW
+	capital: Seoul
+	region: Asia
+	subregion: Eastern Asia
+	lat: 37
+	lng: 127.5
+	enabled: 1
+	area: 100210
+SS:
+	name: South Sudan
+	uniCode: SS
+	currency: SSP
+	capital: Juba
+	region: Africa
+	subregion: Middle Africa
+	lat: 7
+	lng: 30
+	enabled: 1
+	area: 619745
+ES:
+	name: Spain
+	uniCode: ES
+	currency: EUR
+	capital: Madrid
+	region: Europe
+	subregion: Southern Europe
+	lat: 40
+	lng: -4
+	enabled: 1
+	area: 505992
+LK:
+	name: Sri Lanka
+	uniCode: LK
+	currency: LKR
+	capital: Colombo
+	region: Asia
+	subregion: Southern Asia
+	lat: 7
+	lng: 81
+	enabled: 1
+	area: 65610
+SD:
+	name: Sudan
+	uniCode: SD
+	currency: SDG
+	capital: Khartoum
+	region: Africa
+	subregion: Northern Africa
+	lat: 15
+	lng: 30
+	enabled: 1
+	area: 1886068
+SR:
+	name: Suriname
+	uniCode: SR
+	currency: SRD
+	capital: Paramaribo
+	region: Americas
+	subregion: South America
+	lat: 4
+	lng: -56
+	enabled: 1
+	area: 163820
+SJ:
+	name: Svalbard and Jan Mayen
+	uniCode: SJ
+	currency: NOK
+	capital: Longyearbyen
+	region: Europe
+	subregion: Northern Europe
+	lat: 78
+	lng: 20
+	enabled: 1
+	area: -1
+SZ:
+	name: Swaziland
+	uniCode: SZ
+	currency: SZL
+	capital: Lobamba
+	region: Africa
+	subregion: Southern Africa
+	lat: -26.5
+	lng: 31.5
+	enabled: 1
+	area: 17364
+SE:
+	name: Sweden
+	uniCode: SE
+	currency: SEK
+	capital: Stockholm
+	region: Europe
+	subregion: Northern Europe
+	lat: 62
+	lng: 15
+	enabled: 1
+	area: 450295
+CH:
+	name: Switzerland
+	uniCode: CH
+	currency: CHE
+	capital: Bern
+	region: Europe
+	subregion: Western Europe
+	lat: 47
+	lng: 8
+	enabled: 1
+	area: 41284
+SY:
+	name: Syria
+	uniCode: SY
+	currency: SYP
+	capital: Damascus
+	region: Asia
+	subregion: Western Asia
+	lat: 35
+	lng: 38
+	enabled: 1
+	area: 185180
+TW:
+	name: Taiwan
+	uniCode: TW
+	currency: TWD
+	capital: Taipei
+	region: Asia
+	subregion: Eastern Asia
+	lat: 23.5
+	lng: 121
+	enabled: 1
+	area: 36193
+TJ:
+	name: Tajikistan
+	uniCode: TJ
+	currency: TJS
+	capital: Dushanbe
+	region: Asia
+	subregion: Central Asia
+	lat: 39
+	lng: 71
+	enabled: 1
+	area: 143100
+TZ:
+	name: Tanzania
+	uniCode: TZ
+	currency: TZS
+	capital: Dodoma
+	region: Africa
+	subregion: Eastern Africa
+	lat: -6
+	lng: 35
+	enabled: 1
+	area: 945087
+TH:
+	name: Thailand
+	uniCode: TH
+	currency: THB
+	capital: Bangkok
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 15
+	lng: 100
+	enabled: 1
+	area: 513120
+TL:
+	name: Timor-Leste
+	uniCode: TL
+	currency: USD
+	capital: Dili
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: -8.83333333
+	lng: 125.91666666
+	enabled: 1
+	area: 14874
+TG:
+	name: Togo
+	uniCode: TG
+	currency: XOF
+	capital: Lomé
+	region: Africa
+	subregion: Western Africa
+	lat: 8
+	lng: 1.16666666
+	enabled: 1
+	area: 56785
+TK:
+	name: Tokelau
+	uniCode: TK
+	currency: NZD
+	capital: Fakaofo
+	region: Oceania
+	subregion: Polynesia
+	lat: -9
+	lng: -172
+	enabled: 1
+	area: 12
+TO:
+	name: Tonga
+	uniCode: TO
+	currency: TOP
+	capital: Nuku'alofa
+	region: Oceania
+	subregion: Polynesia
+	lat: -20
+	lng: -175
+	enabled: 1
+	area: 747
+TT:
+	name: Trinidad and Tobago
+	uniCode: TT
+	currency: TTD
+	capital: Port of Spain
+	region: Americas
+	subregion: Caribbean
+	lat: 11
+	lng: -61
+	enabled: 1
+	area: 5130
+TN:
+	name: Tunisia
+	uniCode: TN
+	currency: TND
+	capital: Tunis
+	region: Africa
+	subregion: Northern Africa
+	lat: 34
+	lng: 9
+	enabled: 1
+	area: 163610
+TR:
+	name: Turkey
+	uniCode: TR
+	currency: TRY
+	capital: Ankara
+	region: Asia
+	subregion: Western Asia
+	lat: 39
+	lng: 35
+	enabled: 1
+	area: 783562
+TM:
+	name: Turkmenistan
+	uniCode: TM
+	currency: TMT
+	capital: Ashgabat
+	region: Asia
+	subregion: Central Asia
+	lat: 40
+	lng: 60
+	enabled: 1
+	area: 488100
+TC:
+	name: Turks and Caicos Islands
+	uniCode: TC
+	currency: USD
+	capital: Cockburn Town
+	region: Americas
+	subregion: Caribbean
+	lat: 21.75
+	lng: -71.58333333
+	enabled: 1
+	area: 948
+TV:
+	name: Tuvalu
+	uniCode: TV
+	currency: AUD
+	capital: Funafuti
+	region: Oceania
+	subregion: Polynesia
+	lat: -8
+	lng: 178
+	enabled: 1
+	area: 26
+UG:
+	name: Uganda
+	uniCode: UG
+	currency: UGX
+	capital: Kampala
+	region: Africa
+	subregion: Eastern Africa
+	lat: 1
+	lng: 32
+	enabled: 1
+	area: 241550
+UA:
+	name: Ukraine
+	uniCode: UA
+	currency: UAH
+	capital: Kiev
+	region: Europe
+	subregion: Eastern Europe
+	lat: 49
+	lng: 32
+	enabled: 1
+	area: 603500
+AE:
+	name: United Arab Emirates
+	uniCode: AE
+	currency: AED
+	capital: Abu Dhabi
+	region: Asia
+	subregion: Western Asia
+	lat: 24
+	lng: 54
+	enabled: 1
+	area: 83600
+GB:
+	name: United Kingdom
+	uniCode: GB
+	currency: GBP
+	capital: London
+	region: Europe
+	subregion: Northern Europe
+	lat: 54
+	lng: -2
+	enabled: 1
+	area: 242900
+US:
+	name: United States
+	uniCode: US
+	currency: USD
+	capital: Washington D.C.
+	region: Americas
+	subregion: Northern America
+	lat: 38
+	lng: -97
+	enabled: 1
+	area: 9372610
+UM:
+	name: United States Minor Outlying Islands
+	uniCode: UM
+	currency: USD
+	capital: 
+	region: Americas
+	subregion: Northern America
+	lat: 
+	lng: 
+	enabled: 1
+	area: 34.2
+VI:
+	name: United States Virgin Islands
+	uniCode: VI
+	currency: USD
+	capital: Charlotte Amalie
+	region: Americas
+	subregion: Caribbean
+	lat: 18.35
+	lng: -64.933333
+	enabled: 1
+	area: 347
+UY:
+	name: Uruguay
+	uniCode: UY
+	currency: UYI
+	capital: Montevideo
+	region: Americas
+	subregion: South America
+	lat: -33
+	lng: -56
+	enabled: 1
+	area: 181034
+UZ:
+	name: Uzbekistan
+	uniCode: UZ
+	currency: UZS
+	capital: Tashkent
+	region: Asia
+	subregion: Central Asia
+	lat: 41
+	lng: 64
+	enabled: 1
+	area: 447400
+VU:
+	name: Vanuatu
+	uniCode: VU
+	currency: VUV
+	capital: Port Vila
+	region: Oceania
+	subregion: Melanesia
+	lat: -16
+	lng: 167
+	enabled: 1
+	area: 12189
+VE:
+	name: Venezuela
+	uniCode: VE
+	currency: VEF
+	capital: Caracas
+	region: Americas
+	subregion: South America
+	lat: 8
+	lng: -66
+	enabled: 1
+	area: 916445
+VN:
+	name: Vietnam
+	uniCode: VN
+	currency: VND
+	capital: Hanoi
+	region: Asia
+	subregion: South-Eastern Asia
+	lat: 16.16666666
+	lng: 107.83333333
+	enabled: 1
+	area: 331212
+WF:
+	name: Wallis and Futuna
+	uniCode: WF
+	currency: XPF
+	capital: Mata-Utu
+	region: Oceania
+	subregion: Polynesia
+	lat: -13.3
+	lng: -176.2
+	enabled: 1
+	area: 142
+EH:
+	name: Western Sahara
+	uniCode: EH
+	currency: MAD
+	capital: El Aaiún
+	region: Africa
+	subregion: Northern Africa
+	lat: 24.5
+	lng: -13
+	enabled: 1
+	area: 266000
+YE:
+	name: Yemen
+	uniCode: YE
+	currency: YER
+	capital: Sana'a
+	region: Asia
+	subregion: Western Asia
+	lat: 15
+	lng: 48
+	enabled: 1
+	area: 527968
+ZM:
+	name: Zambia
+	uniCode: ZM
+	currency: ZMK
+	capital: Lusaka
+	region: Africa
+	subregion: Eastern Africa
+	lat: -15
+	lng: 30
+	enabled: 1
+	area: 752612
+ZW:
+	name: Zimbabwe
+	uniCode: ZW
+	currency: ZWL
+	capital: Harare
+	region: Africa
+	subregion: Eastern Africa
+	lat: -20
+	lng: 30
+	enabled: 1
+	area: 390757
